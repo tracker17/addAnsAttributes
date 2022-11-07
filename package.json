@@ -1,0 +1,13 @@
+{
+  "name": "ans_attr",
+  "version": "1.0.0",
+  "description": "for adding attributes to answers docs",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ash",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
